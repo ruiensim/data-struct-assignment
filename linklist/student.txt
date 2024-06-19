@@ -1,0 +1,44 @@
+Student Id = 1200233
+Name = Matt Damon
+Course = CS
+Phone Number = 790-3233
+
+Student Id = 1200567
+Name = Andy Davis
+Course = CS
+Phone Number = 456-9990
+
+Student Id = 1201237
+Name = Ben Affleck
+Course = IA
+Phone Number = 432-4579
+
+Student Id = 1300899
+Name = Salma Hayek
+Course = IB
+Phone Number = 790-0000
+
+Student Id = 1200555
+Name = Rui En
+Course = CS
+Phone Number = 790-3234
+
+Student Id = 1200314
+Name = Wei Sheng
+Course = CN
+Phone Number = 790-4266
+
+Student Id = 1301012
+Name = Sharon Ng
+Course = CN
+Phone Number = 791-2333
+
+Student Id = 1200414
+Name = Wei En
+Course = CN
+Phone Number = 790-1234
+
+Student Id = 1200365
+Name = Yi Long
+Course = CT
+Phone Number = 790-3223

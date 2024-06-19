@@ -1,0 +1,15 @@
+Student Id = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Course = CS
+CGPA = 3.12076
+
+Student Id = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+Phone Number = 456-4321
+Course = IB
+CGPA = 3.23678
